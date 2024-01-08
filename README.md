@@ -1,4 +1,4 @@
-Hasta el momento hay algunos papers con la bibliografía a usar. También se agregaron los archivos de texto. 
+1. Archivos texto con los datos a usar en el código (fuente: Michele Moresco et al JCAP05(2016)014) 
 
 Lo más importante está en el archivo .ipynb, donde está el primer avance del trabajo.
 
