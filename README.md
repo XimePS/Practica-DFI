@@ -1,4 +1,4 @@
-Archivos .py:
+Archivos .ipynb:
 
 1. GA with numpy functions: Algoritmo genético
 
