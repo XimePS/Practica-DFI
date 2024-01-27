@@ -8,4 +8,4 @@ Archivos .ipynb:
 
 Archivos .txt: Ambos son tablas con los datos usados. 
 
-Adicionaes: plots, poster de presentación y QR. 
+Adicionales: plots, poster de presentación y QR. 
